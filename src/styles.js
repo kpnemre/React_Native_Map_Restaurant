@@ -5,6 +5,7 @@ export const searchbarStyle = StyleSheet.create({
     backgroundColor: 'white',
     padding: 5,
     margin: 10,
+    marginLeft:55,
     borderRadius: 10,
     alignSelf: 'center',
     flexDirection: 'row',
